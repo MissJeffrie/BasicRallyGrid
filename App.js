@@ -1,6 +1,8 @@
 Ext.define('CustomApp', {
     extend: 'Rally.app.App',
     componentCls: 'app',
+    
+    //Miss J's Basic Grid - Woot
 
     launch: function() {
     	console.log('Our first app woot!');
